@@ -5,9 +5,9 @@
 ## Source of the Dataset
 [https://www.kaggle.com/datasets/kamilshaikh2003/city-magicbricks-rent-price](https://www.kaggle.com/datasets/kamilshaikh2003/city-magicbricks-rent-price)
 
-## Queries
-[View](https://github.com/arindam-bhunia/Data-Analysis-of-Residencial-Listings-for-Renting-in-Pune-on-Magicbricks-using-MySQL/blob/main/Query.sql)
+
 ## About
 
-
+## Queries
+[View](https://github.com/arindam-bhunia/Data-Analysis-of-Residencial-Listings-for-Renting-in-Pune-on-Magicbricks-using-MySQL/blob/main/Query.sql)
 ## Analysis
